@@ -5,4 +5,8 @@ Since the data was made avaliable in a text inside a pdf file, it's not easy to 
 
 With this aproach we can begin to analyse its content. 
 
- ![image](https://user-images.githubusercontent.com/57647868/158916374-84b69908-7c90-4c63-9d51-7f86277073cf.png)
+![image](https://user-images.githubusercontent.com/57647868/158916855-7c289971-e205-48e4-84d9-ee0095533bfd.png)
+
+
+![image](https://user-images.githubusercontent.com/57647868/158916809-08f42dcb-95d5-4974-bc6b-93b5de13fe79.png)
+
